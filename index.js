@@ -31,7 +31,7 @@ const lengthOfLastWord = (s) => {
   //   let latsWordLength = 0;
   //   let isFindLastWord = false;
   //   for (i = s.length - 1; i >= 0; i--) {
-  //     const char = s[i];
+  //     let char = s[i];
   //     if (char !== " ") {
   //       isFindLastWord = true;
   //       latsWordLength++;
