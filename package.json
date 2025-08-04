@@ -1,0 +1,27 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Khishigdari/node-1.git"
+  },
+  "author": "hishigdari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khishigdari/node-1/issues"
+  },
+  "homepage": "https://github.com/Khishigdari/node-1#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "console-log-color": "^0.0.5",
+    "console-log-colors": "^0.5.0",
+    "lodash": "^4.17.21",
+    "moo-color": "^1.0.3"
+  }
+}
